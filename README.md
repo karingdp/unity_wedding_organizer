@@ -12,7 +12,7 @@ Pelanggan:
 
 Admin:
 - Dashboard ringkasan.
-- Kelola Pesanan (Lihat, Terima, Tolak).
+- Kelola Pesanan.
 - Kelola Produk/Layanan (Tambah, Edit, Hapus).
 - Cetak Laporan & Nota Admin.
 
